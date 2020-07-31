@@ -1,5 +1,11 @@
 # Firebase First Try
+
+
+## Learning reference
+- [DEMO](https://angular-82e48.web.app/)
 - learning from [Firebase - Back to the Basics - YouTube](https://www.youtube.com/watch?v=q5J5ho7YUhA)
+
+
 
 ## Functionality
 - use firebase-auth to login via Google a/c
